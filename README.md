@@ -55,3 +55,11 @@ Usar chmod 777 en vez de 755
 ![image](https://user-images.githubusercontent.com/73863024/170808500-d3eb1309-a349-4c59-94f3-e7b3ddcfbec0.png)
 ## Creación de carpetas
 ![image](https://user-images.githubusercontent.com/73863024/170808610-873e5521-236f-4d7e-9024-27f2a4fe1b65.png)
+## ingresamos datos en el sistema de archivos local
+![image](https://user-images.githubusercontent.com/73863024/170832571-a043dd6a-1898-49f7-9f95-d8adb47f7025.png)
+Repetimos para todas las carpetas.
+## insertando en s3 desde consola 
+![image](https://user-images.githubusercontent.com/73863024/170832960-52108cb9-a1bb-4c70-a36e-3cbd2150d306.png)
+## Por último hacemos el bucket publico
+![image](https://user-images.githubusercontent.com/73863024/170833271-91d59e1a-8f7e-4e1a-98b5-1fab4e935215.png)
+
